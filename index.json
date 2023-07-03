@@ -1,0 +1,10 @@
+{
+    "root_url": "https://vdeltagabriel.github.io/minecraft_server_archive/",
+    "versions": [
+        {
+            "name": "b1.6.6",
+            "sha1": "e6c5db853f3b019599c24ce3d97b45bb7d8e02bd",
+            "size": 491437
+        }
+    ]
+}
