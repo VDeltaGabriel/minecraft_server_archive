@@ -17,7 +17,7 @@
         "server": {
             "sha1": "e6c5db853f3b019599c24ce3d97b45bb7d8e02bd",
             "size": 491437,
-            "url": "https://launcher.mojang.com/v1/objects/f95fe05711d09553ca2a9089f981741c13d6b8c4/server.jar"
+            "url": "https://github.com/VDeltaGabriel/minecraft_server_archive/raw/main/e6c5db853f3b019599c24ce3d97b45bb7d8e02bd/server.jar"
         }
     },
     "id": "b1.6.6",
